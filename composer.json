@@ -3,10 +3,10 @@
     "type": "magento-module",
     "license": "Open-Software-License-(OSL)",
     "homepage": "",
-    "description": "This extension can be use to manage the events with full calendar and its show you upcoming events list.",
+    "description": "This extension can be use to manage the events with full calendar and its show you upcoming events list. ",
     "authors": [
     {
-        "name": "iquall infoway",
+        "name": "iquallinfo",
         "email": "support@i-quall.com"
     }
 ],
