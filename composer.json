@@ -1,16 +1,19 @@
 {
-    "name": "OpenMageModuleFostering/EventCalendar",
+    "name": "OpenMageModuleFostering\/EventCalendar",
     "type": "magento-module",
     "license": "Open-Software-License-(OSL)",
     "homepage": "",
     "description": "This extension can be use to manage the events with full calendar and its show you upcoming events list. ",
     "authors": [
-    {
-        "name": "iquallinfo",
-        "email": "support@i-quall.com"
-    }
-],
+        {
+            "name": "iquallinfo",
+            "email": "support@i-quall.com"
+        }
+    ],
     "suggest": {
-        "magento-hackathon/magento-composer-installer": "*"
-    }
+        "magento-hackathon\/magento-composer-installer": "*"
+    },
+    "keywords": [
+        "openmage-module"
+    ]
 }
